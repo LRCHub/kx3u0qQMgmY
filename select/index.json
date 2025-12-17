@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "メテオ",
+  "base_artist": "じょん",
+  "createdAt": "2025-12-17T10:27:52.611810Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メテオ",
+      "artist": "John Zeroness",
+      "has_synced": false,
+      "path": "select/01_メテオ_John_Zeroness.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メテオ",
+      "artist": "John Zeroness feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_メテオ_John_Zeroness_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メテオ - Meteor (feat. Hatsune Miku)",
+      "artist": "John Zeroness",
+      "has_synced": false,
+      "path": "select/03_メテオ_-_Meteor_(feat._Hatsune_Miku)_John_Zeroness.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メテオ･スクランブル☆流星隊!",
+      "artist": "流星隊/守沢千秋(CV.帆世雄一)、深海奏汰(CV.西山宏太朗)、南雲鉄虎(CV.中島ヨシキ)、高峯翠(CV.渡辺拓海)、仙石忍(CV.新田杏樹)",
+      "has_synced": true,
+      "path": "select/04_メテオ・スクランブル☆流星隊!_流星隊_守沢千秋(CV.帆世雄一)、深海奏汰(CV.西山宏太朗)、南雲鉄虎(CV.中島ヨシキ)、高峯翠(CV.渡辺拓海)、仙石忍(CV.新田杏樹).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メテオ (off vocal)",
+      "artist": "John Zeroness",
+      "has_synced": false,
+      "path": "select/05_メテオ_(off_vocal)_John_Zeroness.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Meteor (メテオ)",
+      "artist": "John Zeroness",
+      "has_synced": true,
+      "path": "select/06_Meteor_(メテオ)_John_Zeroness.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メテオ",
+      "artist": "じょん",
+      "has_synced": false,
+      "path": "select/pl_01_メテオ_じょん.txt"
+    }
+  ]
+}
